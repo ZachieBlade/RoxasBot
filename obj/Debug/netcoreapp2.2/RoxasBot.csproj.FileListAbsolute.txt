@@ -1,0 +1,11 @@
+D:\Discord\Roxas\RoxasBot\RoxasBot\bin\Debug\netcoreapp2.2\RoxasBot.deps.json
+D:\Discord\Roxas\RoxasBot\RoxasBot\bin\Debug\netcoreapp2.2\RoxasBot.runtimeconfig.json
+D:\Discord\Roxas\RoxasBot\RoxasBot\bin\Debug\netcoreapp2.2\RoxasBot.runtimeconfig.dev.json
+D:\Discord\Roxas\RoxasBot\RoxasBot\bin\Debug\netcoreapp2.2\RoxasBot.dll
+D:\Discord\Roxas\RoxasBot\RoxasBot\obj\Debug\netcoreapp2.2\RoxasBot.csprojAssemblyReference.cache
+D:\Discord\Roxas\RoxasBot\RoxasBot\obj\Debug\netcoreapp2.2\RoxasBot.csproj.CoreCompileInputs.cache
+D:\Discord\Roxas\RoxasBot\RoxasBot\obj\Debug\netcoreapp2.2\RoxasBot.AssemblyInfoInputs.cache
+D:\Discord\Roxas\RoxasBot\RoxasBot\obj\Debug\netcoreapp2.2\RoxasBot.AssemblyInfo.cs
+D:\Discord\Roxas\RoxasBot\RoxasBot\bin\Debug\netcoreapp2.2\RoxasBot.pdb
+D:\Discord\Roxas\RoxasBot\RoxasBot\obj\Debug\netcoreapp2.2\RoxasBot.dll
+D:\Discord\Roxas\RoxasBot\RoxasBot\obj\Debug\netcoreapp2.2\RoxasBot.pdb
